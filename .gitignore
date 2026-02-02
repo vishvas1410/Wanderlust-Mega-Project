@@ -34,6 +34,8 @@ Thumbs.db
 *.tfstate.backup
 terraform.tfvars
 
+terra-key
+
 # Coverage directory used by tools like istanbul
 coverage/
 
